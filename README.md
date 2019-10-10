@@ -84,6 +84,11 @@ Videos:
 - Unit Testing with Jest - https://app.pluralsight.com/library/courses/testing-react-applications-jest/table-of-contents
 - Jest Crash Course - https://www.youtube.com/watch?v=7r4xVDI2vho
 
+### Component library and Nintex processes
+Repositories:
+1) Graphene: https://nintex.visualstudio.com/Nintex/_git/ux-graphene
+2) UX Icons: https://nintex.visualstudio.com/Nintex/_git/ux-icons
+
 
 ### LEVEL 2
 TBA
