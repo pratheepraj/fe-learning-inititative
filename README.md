@@ -25,10 +25,21 @@
 
 ## Level 1
 
-### Aim
+### Objective
 1. Learn the basics.
 2. Get acquainted with the required technologies.
 3. Able to understand applications such as Designer and Dashboard after getting introduction.
 4. Get familiar with all relevant Nintex process for working in the front-end repositories.
 5. Able to do some basic work with guidance.
 
+## Level 2
+
+### Objective
+1. Able to work with minimal guidance
+
+## Level 3
+
+### Objective
+
+1. Able to work independently
+2. Able to review pull request of other developers
