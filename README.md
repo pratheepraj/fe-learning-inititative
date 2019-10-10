@@ -1,6 +1,8 @@
 # KL Front-end Learning Initiative
 
-## Aim
+### INTRODUCTION
+
+## Objective
 
 1. To bring up the front-end development capability of the KL office.
 2. To be independent in front-end related development.
