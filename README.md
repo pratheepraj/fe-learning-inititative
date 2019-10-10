@@ -44,8 +44,10 @@
 
 ## LEARNING PROGRAM
 
-### Level 1
-**React** - https://reactjs.org
+### LEVEL 1
+
+### React
+Homepage: https://reactjs.org
 
 Documentation: https://reactjs.org/docs/getting-started.html
 
@@ -56,7 +58,8 @@ Videos:
 Understanding hooks: https://reactjs.org/docs/hooks-intro.html
 - Using React Hooks - https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
 
-**Redux** - https://redux.js.org
+### Redux 
+Homepage: https://redux.js.org
 
 Documentation - https://redux.js.org/api/api-reference
 
@@ -64,14 +67,16 @@ Videos:
 - How Redux Works - https://www.youtube.com/watch?v=1w-oQ-i1XB8
 - Learning Redux(extended) - https://www.linkedin.com/learning/learning-redux/welcome?u=2107340
 
-**Redux-saga** - https://redux-saga.js.org
+### Redux-saga
+Homepage: https://redux-saga.js.org
 
 Documentation - https://redux-saga.js.org
 
 Videos:
 - Learn Redux Saga series - https://www.youtube.com/watch?v=0L99n06F2rU&list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39
 
-**Jest** - https://jestjs.io
+### Jest 
+Homepage: https://jestjs.io
 
 Documentation - https://jestjs.io/docs/en/getting-started
 
@@ -80,8 +85,8 @@ Videos:
 - Jest Crash Course - https://www.youtube.com/watch?v=7r4xVDI2vho
 
 
-### Level 3
+### LEVEL 2
 TBA
 
-### Level 3
+### LEVEL 3
 TBA
