@@ -75,7 +75,7 @@ Documentation - https://redux-saga.js.org
 Videos:
 - Learn Redux Saga series - https://www.youtube.com/watch?v=0L99n06F2rU&list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39
 
-### Jest 
+### Unit Testing with Jest 
 Homepage: https://jestjs.io
 
 Documentation - https://jestjs.io/docs/en/getting-started
