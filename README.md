@@ -46,6 +46,8 @@
 
 ## LEARNING PROGRAM
 
+## Learning Materials
+
 ### LEVEL 1
 
 ### React
@@ -86,11 +88,18 @@ Videos:
 - Unit Testing with Jest - https://app.pluralsight.com/library/courses/testing-react-applications-jest/table-of-contents
 - Jest Crash Course - https://www.youtube.com/watch?v=7r4xVDI2vho
 
-### Component library and Nintex processes
-Repositories:
-1) Graphene: https://nintex.visualstudio.com/Nintex/_git/ux-graphene
-2) UX Icons: https://nintex.visualstudio.com/Nintex/_git/ux-icons
+## Workshops
+1) High level architectures of Designer and Dashboard
+2) Graphene and UX-Icons: Introduction and Process
 
+Repositories:
+1) Designer: https://nintex.visualstudio.com/Nintex/_git/nwc-designer
+2) Dashboard: https://nintex.visualstudio.com/Nintex/_git/nwc-dashboard
+3) Graphene: https://nintex.visualstudio.com/Nintex/_git/ux-graphene
+4) UX Icons: https://nintex.visualstudio.com/Nintex/_git/ux-icons
+
+## Final Assignment
+Same as the take home assignment for interview candidates
 
 ### LEVEL 2
 TBA
