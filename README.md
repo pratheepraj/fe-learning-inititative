@@ -1,11 +1,11 @@
-# KL Front-end Learning Initiative
+# KL NWC Front-end Learning Initiative
 
 ## INTRODUCTION
 
 ### Objective
 
-1. To bring up the front-end development capability of the KL office.
-2. To be independent in front-end related development.
+1. To bring up the front-end development capability of the NWC developers in KL office.
+2. To be independent in front-end related development in NWC.
 
 ### Main technologies to learn, as used in Nintex.
 
@@ -27,20 +27,22 @@
 
 ### Level 1 Objective
 
-1. Learn the basics.
-2. Get acquainted with the required technologies.
-3. Able to understand applications such as Designer and Dashboard after getting introduction.
-4. Get familiar with all relevant Nintex process for working in the front-end repositories.
-5. Able to do some basic work with guidance.
+1. Learn the basics
+2. Get acquainted with the relevant technologies
+3. Able to understand applications such as Designer and Dashboard after getting introduction of high level architecture
+4. Get familiar with all relevant Nintex process for working in the front-end repositories
+5. Able to do some basic work with guidance
 
 ### Level 2 Objective
 
 1. Able to work with minimal guidance
+2. Learn more advanced concepts
 
 ### Level 3 Objective
 
 1. Able to work independently
 2. Able to review pull request of other developers
+3. Able to be a mentor and coach other developers with this or similar training programme.
 
 ## LEARNING PROGRAM
 
