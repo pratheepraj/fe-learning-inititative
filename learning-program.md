@@ -9,19 +9,16 @@ Homepage: https://reactjs.org
 
 Documentation: https://reactjs.org/docs/getting-started.html
 
-Videos: 
+Resources: 
 - Learning React.js - https://www.linkedin.com/learning/react-js-essential-training-3
 - React.js Essential Training - https://www.linkedin.com/learning/learning-react-js-4
-
-Understanding hooks: https://reactjs.org/docs/hooks-intro.html
-- Using React Hooks - https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
 
 ### Redux 
 Homepage: https://redux.js.org
 
 Documentation - https://redux.js.org/api/api-reference
 
-Videos: 
+Resources: 
 - How Redux Works - https://www.youtube.com/watch?v=1w-oQ-i1XB8
 - Learning Redux(extended) - https://www.linkedin.com/learning/learning-redux/welcome?u=2107340
 
@@ -30,16 +27,15 @@ Homepage: https://redux-saga.js.org
 
 Documentation - https://redux-saga.js.org
 
-Videos:
+Resources:
 - Learn Redux Saga series - https://www.youtube.com/watch?v=0L99n06F2rU&list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39
 
-### Unit Testing with Jest 
+### Unit Testing with Jest (Beginner)
 Homepage: https://jestjs.io
 
 Documentation - https://jestjs.io/docs/en/getting-started
 
-Videos: 
-- Unit Testing with Jest - https://app.pluralsight.com/library/courses/testing-react-applications-jest/table-of-contents
+Resources: 
 - Jest Crash Course - https://www.youtube.com/watch?v=7r4xVDI2vho
 
 ## Workshops
@@ -52,11 +48,44 @@ Repositories:
 3) Graphene: https://nintex.visualstudio.com/Nintex/_git/ux-graphene
 4) UX Icons: https://nintex.visualstudio.com/Nintex/_git/ux-icons
 
-## Final Assignment
-Same as the take home assignment for interview candidates
-
 ### LEVEL 2
-TBA
 
-### LEVEL 3
-TBA
+### React
+- Understanding and using Hooks: 
+    - https://reactjs.org/docs/hooks-intro.html
+    - https://kentcdodds.com/blog/usememo-and-usecallback
+    - https://kentcdodds.com/blog/how-to-implement-usestate-with-usereducer
+    - https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
+- Creating custom Hooks
+    -   https://reactjs.org/docs/hooks-custom.html
+    -   https://www.youtube.com/watch?v=fnT5b2u1PHE
+    -   https://www.youtube.com/watch?v=tmlzjnZy6ZQ
+- Concurrent mode
+    - https://reactjs.org/docs/concurrent-mode-intro.html
+    - https://www.youtube.com/watch?v=1wkhjE-cca4
+
+### Storybook
+Homepage: https://storybook.js.org/
+
+Documentation - https://storybook.js.org/docs/basics/introduction/
+
+Resources: 
+- https://www.learnstorybook.com/
+
+### Jest (Advanced)
+Resources: 
+- Unit Testing with Jest - https://app.pluralsight.com/library/courses/testing-react-applications-jest/table-of-contents
+- https://app.pluralsight.com/guides/how-does-jest.fn()-work
+
+### Cypress 
+Homepage: https://www.cypress.io/
+
+Documentation: https://docs.cypress.io/guides/overview/why-cypress.html
+
+Resources: 
+- https://www.youtube.com/watch?v=LcGHiFnBh3Y
+
+## Graduation
+- Work independently on a couple of PBIs that require significant front-end work
+- Create a component in Storybook
+- Do the Nintex take home assignment for front-end interview candidates
