@@ -38,7 +38,7 @@ Documentation - https://jestjs.io/docs/en/getting-started
 Resources: 
 - Jest Crash Course - https://www.youtube.com/watch?v=7r4xVDI2vho
 
-## Workshops
+### Workshops
 1) High level architectures of Designer and Dashboard
 2) Graphene and UX-Icons: Introduction and Process
 
