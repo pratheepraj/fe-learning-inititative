@@ -53,7 +53,7 @@ Create a simple application and demonstrate your proficiency in React, Redux and
 The application should have:
 - The view layer rendered with React with at least two different views
 - Data stored in a Redux store.
-- Fetch data from the server using Redux-saga - you may use [JSON placeholder](https://jsonplaceholder.typicode.com/) for mockdata
+- Fetch data from the server using Redux-saga - you may use [JSON placeholder](https://jsonplaceholder.typicode.com/) for mock data
 
 ### LEVEL 2
 
