@@ -48,7 +48,7 @@ Repositories:
 3) Graphene: https://nintex.visualstudio.com/Nintex/_git/ux-graphene
 4) UX Icons: https://nintex.visualstudio.com/Nintex/_git/ux-icons
 
-## Graduation
+### GRADUATION
 Create a simple application and demonstrate your proficiency in React, Redux and Redux-saga.
 
 ### LEVEL 2
@@ -91,7 +91,7 @@ Resources:
 ### Workshops
 1) Graphene and UX-Icons: In-depth
 
-## Graduation
+### GRADUATION
 - Work independently on a couple of PBIs that require significant front-end work
 - Create a component in Storybook(`react-core`)
 - Do the Nintex take home assignment for front-end interview candidates
