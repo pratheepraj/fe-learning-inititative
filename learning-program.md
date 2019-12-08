@@ -48,6 +48,9 @@ Repositories:
 3) Graphene: https://nintex.visualstudio.com/Nintex/_git/ux-graphene
 4) UX Icons: https://nintex.visualstudio.com/Nintex/_git/ux-icons
 
+## Graduation
+Create a simple application and demonstrate your proficiency in React, Redux and Redux-saga.
+
 ### LEVEL 2
 
 ### React
@@ -85,7 +88,10 @@ Documentation: https://docs.cypress.io/guides/overview/why-cypress.html
 Resources: 
 - https://www.youtube.com/watch?v=LcGHiFnBh3Y
 
+### Workshops
+1) Graphene and UX-Icons: In-depth
+
 ## Graduation
 - Work independently on a couple of PBIs that require significant front-end work
-- Create a component in Storybook
+- Create a component in Storybook(`react-core`)
 - Do the Nintex take home assignment for front-end interview candidates
