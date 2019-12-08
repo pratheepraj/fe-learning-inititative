@@ -12,7 +12,16 @@
 1. **React** - single page application framework
 2. **Redux** - state management library
 3. **Redux-saga** - for side effects, e.g. asynchronous data fetching from server
-4. **Jest - unit** testing framework
+4. **Jest** - unit testing framework
+5. **Cypress** - Functional and End to End testing framework
+
+### Learning mode
+1. Watching videos
+2. Doing tutorial
+3. Pair programming
+4. Doing actual work
+5. Workshops
+6. Assignments
 
 ### Learning Phase
 
@@ -37,6 +46,7 @@
 
 1. Able to work with minimal guidance
 2. Learn more advanced concepts
+3. Able to write good unit and functional tests
 
 ### Level 3 Objective
 
