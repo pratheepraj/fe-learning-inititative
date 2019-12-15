@@ -82,7 +82,7 @@ Resources:
 ### Jest (Advanced)
 Resources: 
 - Unit Testing with Jest - https://app.pluralsight.com/library/courses/testing-react-applications-jest/table-of-contents
-- https://app.pluralsight.com/guides/how-does-jest.fn()-work
+- Mock Functions & Spies - https://app.pluralsight.com/guides/how-does-jest.fn()-work
 
 ### Cypress 
 Homepage: https://www.cypress.io/
