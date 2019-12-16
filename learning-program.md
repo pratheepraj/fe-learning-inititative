@@ -55,8 +55,8 @@ The application should have:
 - The view layer rendered with React with at least two different views
     - List view: shows a list of posts (`/posts`)
     - Detailed view: 
-        1) shows details of any post selected from the list in the first view. (`/posts/id`)
-        2) shows comments associated to the post at the bottom (`/posts/id/comments`)
+        1) shows details of any post selected from the list in the first view. (`/posts/[id]`)
+        2) shows comments associated to the post at the bottom (`/posts/[id]/comments`)
 - Data should be stored in a Redux store.
 
 
