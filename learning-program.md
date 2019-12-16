@@ -51,9 +51,14 @@ Repositories:
 ### GRADUATION
 Create a simple application and demonstrate your proficiency in React, Redux and Redux-saga.
 The application should have:
-- The view layer rendered with React with at least two different views
-- Data stored in a Redux store.
 - Fetch data from the server using Redux-saga - you may use [JSON placeholder](https://jsonplaceholder.typicode.com/) for mock data
+- The view layer rendered with React with at least two different views
+    - List view: shows a list of posts 
+    - Detailed view: 
+        1) shows details of any post selected from the list in the first view. 
+        2) shows comments associated to the post at the bottom
+- Data should be stored in a Redux store.
+
 
 ### LEVEL 2
 
