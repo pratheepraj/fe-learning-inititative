@@ -101,6 +101,6 @@ Resources:
 1) Graphene and UX-Icons: In-depth
 
 ### GRADUATION
-- Work independently on a couple of PBIs that require significant front-end work
+- Work independently on PBIs that require significant front-end work
 - Create a component in Storybook(`react-core`)
 - Do the Nintex take home assignment for front-end interview candidates
