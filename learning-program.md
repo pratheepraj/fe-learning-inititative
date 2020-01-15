@@ -2,7 +2,7 @@
 
 ## Learning Materials
 
-### LEVEL 1
+### LEVEL 1 [25 - 35 hours]
 
 ### React
 Homepage: https://reactjs.org
@@ -60,7 +60,7 @@ The application should have:
 - Data should be stored in a Redux store.
 
 
-### LEVEL 2
+### LEVEL 2 [30 - 40 hours]
 
 ### React
 - Understanding and using Hooks: 
